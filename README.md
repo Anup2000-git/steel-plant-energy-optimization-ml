@@ -107,8 +107,8 @@ XGBoost documentation & Streamlit community
 
 📬 Contact
 Anup Kumar Nayak
-Email: [your-email@example.com]
-LinkedIn: [your-linkedin-url]
+Email: [anupjsp18@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/anup-kumar-nayak-/]
 GitHub: github.com/Anup2000-git
 
 📄 License
